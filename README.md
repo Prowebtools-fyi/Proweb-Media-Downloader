@@ -3,7 +3,7 @@ I built this because most media downloaders out there are either buried in ads o
 
 Why I built this (Features)
 Native GPU Support
-I hate waiting for renders. The app automatically sniffs out your hardware (NVIDIA, AMD, or Intel) and forces FFmpeg to use your GPU (nvenc, amf, or qsv). It is significantly faster than standard CPU encoding.
+I hate waiting for renders. The app automatically finds out your hardware (NVIDIA, AMD, or Intel) and forces FFmpeg to use your GPU (nvenc, amf, or qsv). It is significantly faster than standard CPU encoding.
 
 Built-in Browser (With a brain)
 Instead of copying and pasting links, you can browse directly in the app. It handles cookies properly (ForcePersistentCookies), so if you are logged into a site or need to bypass an age-gate, it just works without extra steps.
